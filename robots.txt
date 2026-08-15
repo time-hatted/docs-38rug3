@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-s4ibce.juragan89site.site/sitemap.xml
